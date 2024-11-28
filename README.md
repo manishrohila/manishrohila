@@ -2,7 +2,7 @@
 <h3 align="center">I am 3rd year undergraduate(Batch 2021-2025) of National institute of Technology Agartala</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning React<br>👯 I’m looking to collaborate with other Developer Community<br>💬 Ask me about MERN, DSA<br>📫 How to reach me manishrohila543@gmail.com
+🌱 I’m currently learning React<br>👯 I’m looking to collaborate with other Developer Community<br>💬 Ask me about MERN, DSA<br>📫 How to reach me manishrohila0507@gmail.com
 
 
 ## 🌐 Socials:
